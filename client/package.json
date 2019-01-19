@@ -2,7 +2,7 @@
   "name": "mern",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://sultanaK.github.io/React_google_books_search",
+  "homepage": "http://sultanaK.github.io/React_google_books_search",
   "proxy": "http://localhost:3001/",
   "dependencies": {
     "axios": "^0.18.0",
