@@ -1,6 +1,6 @@
 {
   "name": "nytgoolebook",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "description": "",
   "main": "server.js",
@@ -26,6 +26,7 @@
     "gh-pages": "^2.0.1",
     "if-env": "^1.0.4",
     "mongoose": "^5.4.4",
-    "superagent": "^4.1.0"
+    "superagent": "^4.1.0",
+    "react-router-dom":"^4.3.1"
   }
 }
