@@ -1,6 +1,8 @@
-{ 
+{
   "name": "mern",
   "version": "1.0.0",
+  "engines": {
+    "node": "8.12.0"},
   "private": true,
   "homepage": "http://sultanaK.github.io/React_google_books_search",
   "proxy": "http://localhost:3001/",
